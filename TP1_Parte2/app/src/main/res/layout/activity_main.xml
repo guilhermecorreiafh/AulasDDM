@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/titulo_app"
+        android:layout_width="363dp"
+        android:layout_height="48dp"
+        android:minHeight="48dp"
+        android:text="Conversor de Temperatura"
+        android:textAlignment="center"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.182" />
+
+    <EditText
+        android:id="@+id/edt_temperatura"
+        android:layout_width="366dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="32dp"
+        android:height="49dp"
+        android:ems="10"
+        android:hint="Informe a temperatura em Celsius: "
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColor="#3F51B5"
+        android:textColorHint="#3F51B5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titulo_app" />
+
+    <Button
+        android:id="@+id/btn_converter"
+        android:layout_width="123dp"
+        android:layout_height="57dp"
+        android:backgroundTint="#3F51B5"
+        android:text="Converter"
+        android:textColorLink="#3F51B5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edt_temperatura"
+        app:layout_constraintVertical_bias="0.134" />
+
+    <TextView
+        android:id="@+id/txv_exibir"
+        android:layout_width="367dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="36dp"
+        android:textColor="#3F51B5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.636"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_converter"
+        app:layout_constraintVertical_bias="0.04" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
