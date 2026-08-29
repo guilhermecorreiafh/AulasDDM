@@ -6,50 +6,52 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.MainActivity">
+    tools:context=".view.ImcActivity">
 
     <TextView
         android:id="@+id/txv_titulo_tela_imc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="180dp"
-        android:text="Calculadora de IMC"
+        android:text="Resultado do IMC"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <EditText
-        android:id="@+id/edt_peso"
-        android:layout_width="200dp"
+    <TextView
+        android:id="@+id/txv_imc"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
-        android:hint="Peso"
-        android:inputType="numberDecimal"
+        android:layout_marginTop="50dp"
+        android:text="IMC:"
+        android:textSize="24sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/txv_titulo_tela_imc" />
 
-    <EditText
-        android:id="@+id/edt_altura"
-        android:layout_width="200dp"
+    <TextView
+        android:id="@+id/txv_classificacao_imc"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:hint="Altura"
-        android:inputType="numberDecimal"
+        android:layout_marginTop="25dp"
+        android:text="Classificação:"
+        android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/edt_peso" />
+        app:layout_constraintTop_toBottomOf="@id/txv_imc" />
 
     <Button
-        android:id="@+id/btn_calcular"
+        android:id="@+id/btn_voltar_calculo"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:text="Calcular"
+        android:layout_marginTop="40dp"
+        android:text="Voltar ao cálculo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/edt_altura" />
+        app:layout_constraintTop_toBottomOf="@id/txv_classificacao_imc" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

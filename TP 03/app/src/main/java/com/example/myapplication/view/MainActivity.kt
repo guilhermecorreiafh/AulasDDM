@@ -2,58 +2,43 @@ package com.example.myapplication.view
 
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.EditText
-import androidx.activity.enableEdgeToEdge
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.example.myapplication.R
-import com.example.myapplication.dao.AlunoDao
-import com.google.android.material.floatingactionbutton.FloatingActionButton
+import com.example.myapplication.dao.ImcDao
 
-class MainActivity : AppCompatActivity(R.layout.activity_main) {
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
 
-        enableEdgeToEdge()
+        val edtPeso = findViewById<EditText>(R.id.edt_peso)
+        val edtAltura = findViewById<EditText>(R.id.edt_altura)
+        val btnCalcular = findViewById<Button>(R.id.btn_calcular)
 
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
+        btnCalcular.setOnClickListener {
 
-            v.setPadding(
-                systemBars.left,
-                systemBars.top,
-                systemBars.right,
-                systemBars.bottom
-            )
+            val peso = edtPeso.text.toString().toDoubleOrNull()
+            val altura = edtAltura.text.toString().toDoubleOrNull()
 
-            insets
-        }
+            if (peso == null || altura == null || altura <= 0) {
+                Toast.makeText(
+                    this,
+                    "Digite peso e altura corretamente",
+                    Toast.LENGTH_SHORT
+                ).show()
 
-        val edtNomeAluno = findViewById<EditText>(R.id.edt_nome_aluno)
-        val edtTurmaAluno = findViewById<EditText>(R.id.edt_turma_aluno)
-        val btnSalvar = findViewById<Button>(R.id.btn_salvar)
-        val fabAvancaTelaAluno =
-            findViewById<FloatingActionButton>(R.id.fab_avanca)
+                return@setOnClickListener
+            }
 
-        val dao = AlunoDao()
+            val dao = ImcDao()
 
-        btnSalvar.setOnClickListener {
+            dao.calcular(peso, altura)
 
-            val nomeAluno = edtNomeAluno.text.toString()
-            val turmaAluno = edtTurmaAluno.text.toString()
-
-            dao.salvar(nomeAluno, turmaAluno)
-
-            Log.i("ESTADO", "SALVO")
-        }
-
-        fabAvancaTelaAluno.setOnClickListener {
-
-            val intent = Intent(this, AlunoActivity::class.java)
+            val intent = Intent(this, ImcActivity::class.java)
 
             startActivity(intent)
         }
