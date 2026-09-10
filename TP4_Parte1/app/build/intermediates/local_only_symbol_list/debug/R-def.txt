@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id etDiretor
+id etTitulo
+id fabAdicionarFilme
+id recyclerViewFilmes
+id tvDiretor
+id tvTitulo
+layout activity_main
+layout dialog_novo_filme
+layout item_filme
+string app_name
+style Theme.FilmesFavoritos
