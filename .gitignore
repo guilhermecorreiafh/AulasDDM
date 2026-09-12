@@ -1,0 +1,41 @@
+# Built Artifacts & Gradle Caches
+.gradle/
+build/
+/*/build/
+*.apk
+*.aab
+
+# Kotlin Specific Caches
+.kotlin/
+
+# IDE specific files (Android Studio / IntelliJ)
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries/
+.idea/caches/
+.idea/deploymentTargetDropDown.xml
+.idea/render.experimental.xml
+*.iml
+*.ipr
+*.iws
+out/
+captures/
+
+# Local Environment & Configurations
+local.properties
+
+# Keystore & Signing files (NEVER commit these)
+*.jks
+*.keystore
+*.p12
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.bin
