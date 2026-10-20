@@ -1,0 +1,319 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\joaov\.gradle\caches\9.3.0\transforms\35a7843530d6d282c9042229a454d8d0\workspace\transformed\viewbinding-8.5.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\843150b3d79472a947974857cf39ddcf\workspace\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\5342210433b1defe22dc7ec5bd4786d3\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\e7ebb2a2e68a01108478aeaeba90180f\workspace\transformed\coil-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\87a43ec6345c9d3cfd70acfe7293eb34\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89e63ed52a96ba422b63ec962cf9653d\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\24f21dc46bfe02f24239effa48d60f1d\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8d58e735a562ed8e853cf27a51610f96\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\99f2222d0b1216730f318219b791d0d0\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\ecace25b07e741e04aa9c2db27a4e07f\workspace\transformed\activity-1.9.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\2cecbf5c953ecfe4d28a7c4f3dd953bd\workspace\transformed\activity-ktx-1.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\3f106437102dbeb58c82ad9b3fa34533\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\f86b399fb558fb6633e62878ec59d031\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\756b500b3e20ec095cdc6f9a23dc8b76\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\496bd39493909bdacdab7b62e3d0b164\workspace\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7f4cb41ce6ef5df519d250d8e62bc9f8\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\aec37082b32f8a5cdff8682cc5fc9328\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7aea10f23a623a0c82b8dc7eec83c045\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8e68628e2edb37cfeb82e66b120b88b3\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\84298b29a2396e4c0413d714ab833b2b\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a4fd16a049ad2de1b1078c371751a635\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0973cc6c795a80d13d75055484747ae9\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\24063b29ea05f281b29b858b01c46cad\workspace\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\6f942cda4e5e531cd340b0b443762277\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\49167c18ceefbd1685b0624b71db98f4\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\c29ae5258eb2b712d6b8ff15bfded716\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e1bc755ae51ab340101f97a9c131ac6\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\e1dea63b3070aadf857b28b39eaa58f1\workspace\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\540f32636330f4484439ff87c645061e\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e1e41c9a5ef51a5b5ec7c516ef8b282\workspace\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8e4c29ac4068772196d35d97fe0a03d0\workspace\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\25efa42bf5261ef69bea88f3bfdf78a4\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\bcf7471bffe14005df1953010de0dfa0\workspace\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\acf380545020072c7d70e5a034f98137\workspace\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7decf8314efb235fcb1ffebbebdc3413\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\36d00105180e359e63b1a2ecf90059bd\workspace\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a9bfa43fa167c9b68e981258103b35dd\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a95cce19d89f84cc34df68b391e93fd3\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\86965596a89f7965c9be9b34419a9799\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\458745b599098a46a5fcb3a71501c53b\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\493b31bbd63da5c2484aa57f72862a17\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7583777e47795b195baade24df470b6b\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\fe55e20789d76daae1171476f38f1886\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\cb2e3f7ab3d2a87f7ab0d3730df44b03\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e7868a4020dddc57944841cf9638dea\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\976b0cb35e10310aa3adc2c19a913364\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a30bc75be6f16b160068e709098cfce7\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\b14f7f0b07c5df24209f96d48f868db6\workspace\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:6:5-19:19
+INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:6:5-19:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\843150b3d79472a947974857cf39ddcf\workspace\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\843150b3d79472a947974857cf39ddcf\workspace\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\5342210433b1defe22dc7ec5bd4786d3\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\5342210433b1defe22dc7ec5bd4786d3\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a95cce19d89f84cc34df68b391e93fd3\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a95cce19d89f84cc34df68b391e93fd3\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7583777e47795b195baade24df470b6b\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7583777e47795b195baade24df470b6b\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:10:9-53
+activity#com.example.filmesfavoritos.view.MainActivity
+ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:12:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\joaov\.gradle\caches\9.3.0\transforms\35a7843530d6d282c9042229a454d8d0\workspace\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\joaov\.gradle\caches\9.3.0\transforms\35a7843530d6d282c9042229a454d8d0\workspace\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\843150b3d79472a947974857cf39ddcf\workspace\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\843150b3d79472a947974857cf39ddcf\workspace\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\5342210433b1defe22dc7ec5bd4786d3\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\5342210433b1defe22dc7ec5bd4786d3\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\e7ebb2a2e68a01108478aeaeba90180f\workspace\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\e7ebb2a2e68a01108478aeaeba90180f\workspace\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\87a43ec6345c9d3cfd70acfe7293eb34\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\87a43ec6345c9d3cfd70acfe7293eb34\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89e63ed52a96ba422b63ec962cf9653d\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89e63ed52a96ba422b63ec962cf9653d\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\24f21dc46bfe02f24239effa48d60f1d\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\24f21dc46bfe02f24239effa48d60f1d\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8d58e735a562ed8e853cf27a51610f96\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8d58e735a562ed8e853cf27a51610f96\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\99f2222d0b1216730f318219b791d0d0\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\99f2222d0b1216730f318219b791d0d0\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\ecace25b07e741e04aa9c2db27a4e07f\workspace\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\ecace25b07e741e04aa9c2db27a4e07f\workspace\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\2cecbf5c953ecfe4d28a7c4f3dd953bd\workspace\transformed\activity-ktx-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\2cecbf5c953ecfe4d28a7c4f3dd953bd\workspace\transformed\activity-ktx-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\3f106437102dbeb58c82ad9b3fa34533\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\3f106437102dbeb58c82ad9b3fa34533\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\f86b399fb558fb6633e62878ec59d031\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\f86b399fb558fb6633e62878ec59d031\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\756b500b3e20ec095cdc6f9a23dc8b76\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\756b500b3e20ec095cdc6f9a23dc8b76\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\496bd39493909bdacdab7b62e3d0b164\workspace\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\496bd39493909bdacdab7b62e3d0b164\workspace\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7f4cb41ce6ef5df519d250d8e62bc9f8\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7f4cb41ce6ef5df519d250d8e62bc9f8\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\aec37082b32f8a5cdff8682cc5fc9328\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\aec37082b32f8a5cdff8682cc5fc9328\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7aea10f23a623a0c82b8dc7eec83c045\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7aea10f23a623a0c82b8dc7eec83c045\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8e68628e2edb37cfeb82e66b120b88b3\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8e68628e2edb37cfeb82e66b120b88b3\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\84298b29a2396e4c0413d714ab833b2b\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\84298b29a2396e4c0413d714ab833b2b\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a4fd16a049ad2de1b1078c371751a635\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a4fd16a049ad2de1b1078c371751a635\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0973cc6c795a80d13d75055484747ae9\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0973cc6c795a80d13d75055484747ae9\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\24063b29ea05f281b29b858b01c46cad\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\24063b29ea05f281b29b858b01c46cad\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\6f942cda4e5e531cd340b0b443762277\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\6f942cda4e5e531cd340b0b443762277\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\49167c18ceefbd1685b0624b71db98f4\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\49167c18ceefbd1685b0624b71db98f4\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\c29ae5258eb2b712d6b8ff15bfded716\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\c29ae5258eb2b712d6b8ff15bfded716\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e1bc755ae51ab340101f97a9c131ac6\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e1bc755ae51ab340101f97a9c131ac6\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\e1dea63b3070aadf857b28b39eaa58f1\workspace\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\e1dea63b3070aadf857b28b39eaa58f1\workspace\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\540f32636330f4484439ff87c645061e\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\540f32636330f4484439ff87c645061e\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e1e41c9a5ef51a5b5ec7c516ef8b282\workspace\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e1e41c9a5ef51a5b5ec7c516ef8b282\workspace\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8e4c29ac4068772196d35d97fe0a03d0\workspace\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\8e4c29ac4068772196d35d97fe0a03d0\workspace\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\25efa42bf5261ef69bea88f3bfdf78a4\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\25efa42bf5261ef69bea88f3bfdf78a4\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\bcf7471bffe14005df1953010de0dfa0\workspace\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\bcf7471bffe14005df1953010de0dfa0\workspace\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\acf380545020072c7d70e5a034f98137\workspace\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\acf380545020072c7d70e5a034f98137\workspace\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7decf8314efb235fcb1ffebbebdc3413\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7decf8314efb235fcb1ffebbebdc3413\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\36d00105180e359e63b1a2ecf90059bd\workspace\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\36d00105180e359e63b1a2ecf90059bd\workspace\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a9bfa43fa167c9b68e981258103b35dd\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a9bfa43fa167c9b68e981258103b35dd\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a95cce19d89f84cc34df68b391e93fd3\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a95cce19d89f84cc34df68b391e93fd3\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\86965596a89f7965c9be9b34419a9799\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\86965596a89f7965c9be9b34419a9799\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\458745b599098a46a5fcb3a71501c53b\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\458745b599098a46a5fcb3a71501c53b\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\493b31bbd63da5c2484aa57f72862a17\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\493b31bbd63da5c2484aa57f72862a17\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7583777e47795b195baade24df470b6b\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7583777e47795b195baade24df470b6b\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\fe55e20789d76daae1171476f38f1886\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\fe55e20789d76daae1171476f38f1886\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\cb2e3f7ab3d2a87f7ab0d3730df44b03\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\cb2e3f7ab3d2a87f7ab0d3730df44b03\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e7868a4020dddc57944841cf9638dea\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joaov\.gradle\caches\9.3.0\transforms\0e7868a4020dddc57944841cf9638dea\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\976b0cb35e10310aa3adc2c19a913364\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\976b0cb35e10310aa3adc2c19a913364\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a30bc75be6f16b160068e709098cfce7\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\a30bc75be6f16b160068e709098cfce7\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\b14f7f0b07c5df24209f96d48f868db6\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\b14f7f0b07c5df24209f96d48f868db6\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\joaov\Downloads\FilmesFavoritos\FilmesFavoritos\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7583777e47795b195baade24df470b6b\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\7583777e47795b195baade24df470b6b\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joaov\.gradle\caches\9.3.0\transforms\95780f02b2275237aa6108cd7760d99c\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.filmesfavoritos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.filmesfavoritos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\joaov\.gradle\caches\9.3.0\transforms\554635a1186e5e4d0476c93b6774efcf\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joaov\.gradle\caches\9.3.0\transforms\89db838c835554f984765d2fc4287670\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.filmesfavoritos.app-debug-38:/layout_dialog_filme.xml.flat",
+        "source": "com.example.filmesfavoritos.app-main-40:/layout/dialog_filme.xml"
+    },
+    {
+        "merged": "com.example.filmesfavoritos.app-debug-38:/layout_item_filme.xml.flat",
+        "source": "com.example.filmesfavoritos.app-main-40:/layout/item_filme.xml"
+    },
+    {
+        "merged": "com.example.filmesfavoritos.app-debug-38:/layout_activity_main.xml.flat",
+        "source": "com.example.filmesfavoritos.app-main-40:/layout/activity_main.xml"
+    }
+]

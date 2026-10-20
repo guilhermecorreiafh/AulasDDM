@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+id buttonEditar
+id buttonGaleria
+id buttonPrevia
+id buttonRemover
+id editFoto
+id editNome
+id editNota
+id fabAdicionar
+id imagePoster
+id imagePreview
+id recyclerFilmes
+id textNome
+id textNota
+id textVazio
+layout activity_main
+layout dialog_filme
+layout item_filme
+string app_name
+style Theme.FilmesFavoritos
