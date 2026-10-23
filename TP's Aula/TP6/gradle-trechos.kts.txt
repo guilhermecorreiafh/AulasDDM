@@ -1,0 +1,22 @@
+// Trechos a adicionar no build.gradle.kts (Module :app) — conforme o Passo 2 do tutorial
+
+plugins {
+    alias(libs.plugins.android.application)
+    alias(libs.plugins.kotlin.android)
+    id("kotlin-kapt") // ← ADICIONE
+}
+
+android {
+    // ... (mantenha o que já existe)
+    buildFeatures { // ← ADICIONE
+        viewBinding = true
+    }
+}
+
+dependencies {
+    val room_version = "2.6.1" // ← ADICIONE estas 4 linhas
+    implementation("androidx.room:room-runtime:$room_version")
+    implementation("androidx.room:room-ktx:$room_version")
+    kapt("androidx.room:room-compiler:$room_version")
+    // ... (mantenha as dependências que já existem)
+}
