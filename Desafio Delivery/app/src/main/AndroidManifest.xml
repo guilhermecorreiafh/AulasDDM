@@ -24,10 +24,9 @@
             </intent-filter>
         </activity>
 
-        <!-- Tela do usuário logado -->
-        <activity
-            android:name=".view.MainActivity"
-            android:exported="false" />
+        <activity android:name=".view.TipoActivity" android:exported="false" />
+        <activity android:name=".view.ClienteActivity" android:exported="false" />
+        <activity android:name=".view.RestauranteActivity" android:exported="false" />
     </application>
 
 </manifest>
