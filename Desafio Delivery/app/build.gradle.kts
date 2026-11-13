@@ -1,0 +1,51 @@
+plugins {
+    alias(libs.plugins.android.application)
+    // Lê o google-services.json (baixado do console do Firebase)
+    alias(libs.plugins.google.services)
+}
+
+android {
+    namespace = "com.example.tp7"
+    compileSdk {
+        version = release(37)
+    }
+
+    defaultConfig {
+        applicationId = "com.example.tp7"
+        minSdk = 24
+        targetSdk = 37
+        versionCode = 1
+        versionName = "1.0"
+
+        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            optimization {
+                enable = false
+            }
+        }
+    }
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    implementation(libs.androidx.activity.ktx)
+    implementation(libs.androidx.appcompat)
+    implementation(libs.androidx.constraintlayout)
+    implementation(libs.androidx.core.ktx)
+    implementation(libs.material)
+
+    // BoM do Firebase: define a versão do Firebase Auth usada pelo FirebaseUI
+    implementation(platform(libs.firebase.bom))
+    // FirebaseUI Auth (tela de login pronta)
+    implementation(libs.firebaseui.auth)
+
+    testImplementation(libs.junit)
+    androidTestImplementation(libs.androidx.espresso.core)
+    androidTestImplementation(libs.androidx.junit)
+}
