@@ -14,6 +14,10 @@ Aplicativo Android em Kotlin para cadastro de itens por restaurantes e criação
 
 Abra esta pasta no Android Studio, aguarde a sincronização do Gradle e execute o app em um emulador ou dispositivo Android.
 
+Use **JDK 17** em **Settings → Build, Execution, Deployment → Build Tools → Gradle → Gradle JDK** e instale o **Android SDK Platform 34** e **Build Tools 34.0.0** no SDK Manager. O Gradle 8.7 não suporta a execução com o JDK 27 disponível neste ambiente. O código do app continua compilado para Java/Kotlin JVM 11.
+
+O projeto usa Gradle 8.7, AGP 8.6.1, Kotlin 2.1.0 e AndroidX. As correções de Gradle recebidas no ZIP foram incorporadas preservando o FirebaseUI 9.1.1 e alinhando o Firebase BoM em 33.9.0. O downgrade para FirebaseUI 8.0.2 foi evitado porque seu fluxo de e-mail é incompatível com a proteção contra enumeração de e-mails dos projetos Firebase novos. [Referência do FirebaseUI](https://github.com/firebase/FirebaseUI-Android/blob/master/docs/upgrade-to-9.0.md).
+
 Antes de executar, conclua a configuração descrita abaixo. O `google-services.json` que veio na cópia do TP7 aponta para o projeto `tp07-bd6fd`; substitua-o pelo arquivo do projeto Firebase de delivery antes de usar o app.
 
 ## Configuração Firebase necessária
