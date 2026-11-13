@@ -38,12 +38,14 @@ dependencies {
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.core.ktx)
+    implementation(libs.androidx.recyclerview)
     implementation(libs.material)
 
     // BoM do Firebase: define a versão do Firebase Auth usada pelo FirebaseUI
     implementation(platform(libs.firebase.bom))
     // FirebaseUI Auth (tela de login pronta)
     implementation(libs.firebaseui.auth)
+    implementation(libs.firebase.firestore)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.espresso.core)
